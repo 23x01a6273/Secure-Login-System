@@ -1,0 +1,6 @@
+{
+  "name": "Fortress Logic",
+  "description": "Enterprise-grade cybersecurity identity and core access control system with responsive multi-factor authentication, audit logging, and biometrics integration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
